@@ -10,6 +10,9 @@ This is a simple text editor built with React that allows users to select font f
 - **Auto Save:** Automatically saves the text and font settings to local storage.
 - **Reset:** Reset the editor to its default state.
 
+## [Screenshots](#screenshots)
+
+![Screenshot 1](./public/image/editor.png)
 ## Getting Started
 
 ### Prerequisites
